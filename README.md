@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joshdeystudio/joshdeystudio/main/github%20banner.png" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Josh Dey</h1>
 <h3 align="center">Code • Design • Create</h3>
 
